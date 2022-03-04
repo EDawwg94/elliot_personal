@@ -1,4 +1,6 @@
 # elliot_personal
-My personal repo
+Hi,
 
-Testing stuff outside of my orgs repo
+I've created this repository as a way to document my useful code. This includes econometric modeling, data visualisations, formatting, data handling etc :)
+
+-- Elliot
